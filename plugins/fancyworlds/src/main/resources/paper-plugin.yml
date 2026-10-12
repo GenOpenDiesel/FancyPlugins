@@ -5,8 +5,7 @@ loader: "com.fancyinnovations.fancyworlds.main.FancyWorldsLoader"
 version: "$version"
 description: "Simple, lightweight and fast world management plugin"
 website: "https://fancyinnovations.com/docs/minecraft-plugins/fancyworlds"
-authors:
-  - "OliverSchlueter"
+authors: [genallthebest]
 api-version: "1.21"
 load: POSTWORLD
 dependencies:

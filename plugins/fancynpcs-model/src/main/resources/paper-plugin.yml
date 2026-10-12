@@ -5,8 +5,7 @@ loader: "com.fancyinnovations.fancynpcsmodel.main.FancyNpcsModelLoader"
 version: "$version"
 description: "Addon for FancyNpcs that adds support for custom models"
 website: "https://fancyinnovations.com/docs/minecraft-plugins/fancynpcs"
-authors:
-  - "OliverSchlueter"
+authors: [genallthebest]
 api-version: "26.1.2"
 load: POSTWORLD
 folia-supported: true
